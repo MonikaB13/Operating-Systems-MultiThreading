@@ -1,8 +1,4 @@
-CSPB 3753 FALL 2020
-University of Colorado Boulder
-Programming Assignment 3
-
-By: Monica Boomgaarden
+By: Monica Boomgaarden, util.h and util.c provided as part of the assignment by the University of Colorado Boulder
 
 Files:	
 	multi-lookup.c multi-lookup.h and Makefile were created by Monica Boomgaarden all other files were provided as course materials

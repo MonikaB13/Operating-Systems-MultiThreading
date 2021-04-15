@@ -1,4 +1,4 @@
-By: Monica Boomgaarden, util.h and util.c provided as part of the assignment by the University of Colorado Boulder
+By: Monica Boomgaarden
 
 Files:	
 	multi-lookup.c multi-lookup.h and Makefile were created by Monica Boomgaarden all other files were provided as course materials
